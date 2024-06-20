@@ -1,6 +1,7 @@
 # Abdul Mufid
 
 **`Fullstack Web Developer`**
+
 Hi there 👋
 As a full-stack web developer, I handle all aspects of project development, from initial planning and design to solving real-life problems through coding.
 ---
