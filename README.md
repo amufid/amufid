@@ -32,4 +32,4 @@ As a full-stack web developer, I handle all aspects of project development, from
 
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amufid&theme=tokyonight&show_icons=true)
+![amufid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amufid&theme=blue-green&hide_border=true)
