@@ -1,10 +1,9 @@
 # Abdul Mufid
 
-**`Fullstack Web Developer`**
+**`Fullstack Web Developer Entusiast`**
 
-Hi there 👋
 ---
-As a full-stack web developer, I handle all aspects of project development, from initial planning and design to solving real-life problems through coding.
+<p>As a full-stack web developer, I handle all aspects of project development, from initial planning and design to solving real-life problems through coding.</p>
 ---
 
 ### Languages and Tools
@@ -19,16 +18,6 @@ As a full-stack web developer, I handle all aspects of project development, from
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-
-#
-
-### Connect LinkedIn
-
-<div id="badges">
-  <a href="www.linkedin.com/in/abdul-mufid-5608aa249">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 ### Stats
 
