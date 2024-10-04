@@ -25,3 +25,6 @@
 ### Stats
 
 ![amufid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amufid&theme=blue-green&hide_border=true)
+
+#
+[![Visits Badge](https://badges.pufler.dev/visits/amufid/badge-it)](https://badges.pufler.dev)
