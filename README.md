@@ -1,9 +1,9 @@
 # Abdul Mufid
 
-**`Fullstack Web Developer Entusiast`**
+**`Frontend Developer Entusiast`**
 
 ---
-<p>As a full-stack web developer, I handle all aspects of project development, from initial planning and design to solving real-life problems through coding.</p>
+<p>As a Frontend Developer, I handle all aspects of project development, from initial planning and design to solving real-life problems through coding.</p>
 
 #
 
@@ -27,4 +27,4 @@
 ![amufid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amufid&theme=blue-green&hide_border=true)
 
 #
-[![Visits Badge](https://badges.pufler.dev/visits/amufid/badge-it)](https://badges.pufler.dev)
+![](https://komarev.com/ghpvc/?username=amufid)
