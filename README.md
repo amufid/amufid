@@ -2,7 +2,6 @@
 
 **`Frontend Developer Entusiast`**
 
----
 <p>As a Frontend Developer, I handle all aspects of project development, from initial planning and design to solving real-life problems through coding.</p>
 
 #
@@ -28,5 +27,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amufid&exclude_repo=github-readme-stats,amufid.github.io&theme=blue-green)
 
-#
 ![](https://komarev.com/ghpvc/?username=amufid)
