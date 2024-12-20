@@ -23,8 +23,6 @@
 
 ### Stats
 
-![amufid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amufid&theme=blue-green&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amufid&exclude_repo=github-readme-stats,amufid.github.io&theme=blue-green)
 
 ![](https://komarev.com/ghpvc/?username=amufid)
